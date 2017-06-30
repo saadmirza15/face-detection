@@ -39,5 +39,5 @@ Commands for training:
    System is now successfully Trained.
   
  Command for Face recognition:
-Type Command ./demos/classifier.py infer ./generate-embeddings/classifier.pkl aligned_face.jpg
+- Type Command ./demos/classifier.py infer ./generate-embeddings/classifier.pkl aligned_face.jpg
 
