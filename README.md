@@ -1,5 +1,5 @@
-# face-detection
-Product:
+## face-detection
+
 Our System will capture the image of the person and recognize his face with the pictures present in our trained data, if the image is recognized then then person is granted permission otherwise denied. Our system has the capability of self-training on the basis of the daily changes occurring in face of person registered in our system. Our system uses Feature based approch for face detection.
 
 Background:
